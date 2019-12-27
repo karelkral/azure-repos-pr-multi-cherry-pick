@@ -1,6 +1,5 @@
 {
   "id": "pr-multi-cherry-pick-dev",
-  "publisher": "1eslighthouseinternal",
   "public": false,
-  "baseUri": "https://localhost:3000"
+  "baseUri": "http://localhost:3001"
 }

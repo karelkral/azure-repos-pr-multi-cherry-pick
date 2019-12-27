@@ -12,8 +12,8 @@ module.exports = {
   },
   devtool: "inline-source-map",
   devServer: {
-    https: true,
-    port: 3000
+    https: false,
+    port: 3001
   },
   resolve: {
     extensions: [".ts", ".tsx", ".js"],

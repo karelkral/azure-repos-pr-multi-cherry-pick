@@ -1,9 +1,10 @@
 {
   "manifestVersion": 1,
-  "version": "0.0.61",
+  "version": "0.1.2",
   "id": "pr-multi-cherry-pick",
   "name": "PR Multi-Cherry-Pick",
   "description": "Cherry-pick a PR's commits into multiple branches at once",
+  "publisher": "SCIA-CICD",
   "demands": ["api-version/5.0"],
   "scopes": ["vso.code_full"],
   "categories": ["Azure Repos"],
